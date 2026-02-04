@@ -57,6 +57,17 @@ This framework is designed to simulate **real-time QA Automation practices** fol
 
 ---
 
+---
+
+## 📸 Sample Extent Report Screenshot
+
+Below is a sample Extent HTML Report generated after test execution:
+
+![Extent Report](assets/extent-report.png)
+
+---
+
+
 ## ✅ Test Suite Execution
 
 All tests are executed through the `testng.xml` suite:
