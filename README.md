@@ -63,7 +63,7 @@ This framework is designed to simulate **real-time QA Automation practices** fol
 
 Below is a sample Extent HTML Report generated after test execution:
 
-![Extent Report](assets/extent-report.png)
+![Extent Report](assets/extent-report1.png)
 
 ---
 
