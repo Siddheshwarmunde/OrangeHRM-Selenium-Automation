@@ -1,0 +1,19 @@
+# ✅ Ignore Maven build folder
+/target/
+
+# ✅ Ignore Extent Reports folder
+/reports/
+
+# ✅ Ignore Screenshots folder
+/screenshots/
+
+# ✅ Ignore TestNG Output folder
+/test-output/
+
+# ✅ Ignore Eclipse files
+.classpath
+.project
+.settings/
+
+# ✅ Logs
+*.log
