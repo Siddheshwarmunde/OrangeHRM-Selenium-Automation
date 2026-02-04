@@ -66,6 +66,22 @@ Below is a sample Extent HTML Report generated after test execution:
 ![Extent Report](assets/extent-report1.png)
 
 ---
+---
+
+## 📌 Note
+
+This automation framework is created for learning and portfolio purposes using the OrangeHRM demo application.  
+All automation scripts and framework implementation were developed by me.
+
+---
+
+## 👤 Author
+
+**Siddheshwar Munde**  
+Automation Testing Fresher  
+Skills: Selenium | Java | TestNG | Maven | API Testing  
+
+🔗 GitHub: https://github.com/Siddheshwarmunde
 
 
 ## ✅ Test Suite Execution
