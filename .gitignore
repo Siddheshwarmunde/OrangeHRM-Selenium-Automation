@@ -1,19 +1,38 @@
-# ✅ Ignore Maven build folder
+# ✅ Maven build folder
 /target/
 
-# ✅ Ignore Extent Reports folder
+# ✅ Extent Reports
 /reports/
 
-# ✅ Ignore Screenshots folder
+# ✅ Screenshots
 /screenshots/
 
-# ✅ Ignore TestNG Output folder
+# ✅ TestNG output
 /test-output/
 
-# ✅ Ignore Eclipse files
+# ✅ Eclipse IDE files
 .classpath
 .project
 .settings/
 
 # ✅ Logs
 *.log
+
+# ✅ Compiled files
+*.class
+
+# ✅ Package files
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# ✅ Crash logs
+hs_err_pid*
+replay_pid*
+
+# ✅ OS files
+Thumbs.db
+.DS_Store
